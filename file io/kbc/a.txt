@@ -1,0 +1,900 @@
+Q1) this is question1? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+B) This is option B.
+C) This is option C.
+C
+Q2) this is question2? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+A) This is option A.
+B) This is option B.
+B
+Q3) this is question3? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+D) This is option D.
+A) This is option A.
+A
+Q4) this is question4? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+C) This is option C.
+D) This is option D.
+D
+Q5) this is question5? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+A) This is option A.
+B) This is option B.
+B
+Q6) this is question6? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+D) This is option D.
+A) This is option A.
+A
+Q7) this is question7? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+C) This is option C.
+D) This is option D.
+D
+Q8) this is question8? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+A) This is option A.
+B) This is option B.
+B
+Q9) this is question9? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+D) This is option D.
+A) This is option A.
+A
+Q10) this is question10? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+C) This is option C.
+D) This is option D.
+D
+Q11) this is question11? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+A) This is option A.
+B) This is option B.
+B
+Q12) this is question12? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+D) This is option D.
+A) This is option A.
+A
+Q13) this is question13? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+C) This is option C.
+D) This is option D.
+D
+Q14) this is question14? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+A) This is option A.
+B) This is option B.
+B
+Q15) this is question15? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+D) This is option D.
+A) This is option A.
+A
+Q16) this is question16? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+C) This is option C.
+D) This is option D.
+D
+Q17) this is question17? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+A) This is option A.
+B) This is option B.
+B
+Q18) this is question18? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+D) This is option D.
+A) This is option A.
+A
+Q19) this is question19? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+C) This is option C.
+D) This is option D.
+D
+Q20) this is question20? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+A) This is option A.
+B) This is option B.
+B
+Q21) this is question21? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+D) This is option D.
+A) This is option A.
+A
+Q22) this is question22? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+C) This is option C.
+D) This is option D.
+D
+Q23) this is question23? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+A) This is option A.
+B) This is option B.
+B
+Q24) this is question24? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+D) This is option D.
+A) This is option A.
+A
+Q25) this is question25? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+C) This is option C.
+D) This is option D.
+D
+Q26) this is question26? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+A) This is option A.
+B) This is option B.
+B
+Q27) this is question27? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+D) This is option D.
+A) This is option A.
+A
+Q28) this is question28? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+C) This is option C.
+D) This is option D.
+D
+Q29) this is question29? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+A) This is option A.
+B) This is option B.
+B
+Q30) this is question30? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+D) This is option D.
+A) This is option A.
+A
+Q31) this is question31? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+C) This is option C.
+D) This is option D.
+D
+Q32) this is question32? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+A) This is option A.
+B) This is option B.
+B
+Q33) this is question33? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+D) This is option D.
+A) This is option A.
+A
+Q34) this is question34? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+C) This is option C.
+D) This is option D.
+D
+Q35) this is question35? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+A) This is option A.
+B) This is option B.
+B
+Q36) this is question36? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+D) This is option D.
+A) This is option A.
+A
+Q37) this is question37? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+C) This is option C.
+D) This is option D.
+D
+Q38) this is question38? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+A) This is option A.
+B) This is option B.
+B
+Q39) this is question39? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+D) This is option D.
+A) This is option A.
+A
+Q40) this is question40? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+C) This is option C.
+D) This is option D.
+D
+Q41) this is question41? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+A) This is option A.
+B) This is option B.
+B
+Q42) this is question42? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+D) This is option D.
+A) This is option A.
+A
+Q43) this is question43? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+C) This is option C.
+D) This is option D.
+D
+Q44) this is question44? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+A) This is option A.
+B) This is option B.
+B
+Q45) this is question45? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+D) This is option D.
+A) This is option A.
+A
+Q46) this is question46? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+C) This is option C.
+D) This is option D.
+D
+Q47) this is question47? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+A) This is option A.
+B) This is option B.
+B
+Q48) this is question48? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+D) This is option D.
+A) This is option A.
+A
+Q49) this is question49? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+C) This is option C.
+D) This is option D.
+D
+Q50) this is question50? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+A) This is option A.
+B) This is option B.
+B
+Q51) this is question51? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+D) This is option D.
+A) This is option A.
+A
+Q52) this is question52? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+C) This is option C.
+D) This is option D.
+D
+Q53) this is question53? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+A) This is option A.
+B) This is option B.
+B
+Q54) this is question54? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+D) This is option D.
+A) This is option A.
+A
+Q55) this is question55? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+C) This is option C.
+D) This is option D.
+D
+Q56) this is question56? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+A) This is option A.
+B) This is option B.
+B
+Q57) this is question57? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+D) This is option D.
+A) This is option A.
+A
+Q58) this is question58? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+C) This is option C.
+D) This is option D.
+D
+Q59) this is question59? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+A) This is option A.
+B) This is option B.
+B
+Q60) this is question60? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+D) This is option D.
+A) This is option A.
+A
+Q61) this is question61? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+C) This is option C.
+D) This is option D.
+D
+Q62) this is question62? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+A) This is option A.
+B) This is option B.
+B
+Q63) this is question63? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+D) This is option D.
+A) This is option A.
+A
+Q64) this is question64? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+C) This is option C.
+D) This is option D.
+D
+Q65) this is question65? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+A) This is option A.
+B) This is option B.
+B
+Q66) this is question66? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+D) This is option D.
+A) This is option A.
+A
+Q67) this is question67? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+C) This is option C.
+D) This is option D.
+D
+Q68) this is question68? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+A) This is option A.
+B) This is option B.
+B
+Q69) this is question69? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+D) This is option D.
+A) This is option A.
+A
+Q70) this is question70? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+C) This is option C.
+D) This is option D.
+D
+Q71) this is question71? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+A) This is option A.
+B) This is option B.
+B
+Q72) this is question72? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+D) This is option D.
+A) This is option A.
+A
+Q73) this is question73? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+C) This is option C.
+D) This is option D.
+D
+Q74) this is question74? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+A) This is option A.
+B) This is option B.
+B
+Q75) this is question75? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+D) This is option D.
+A) This is option A.
+A
+Q76) this is question76? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+C) This is option C.
+D) This is option D.
+D
+Q77) this is question77? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+A) This is option A.
+B) This is option B.
+B
+Q78) this is question78? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+D) This is option D.
+A) This is option A.
+A
+Q79) this is question79? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+C) This is option C.
+D) This is option D.
+D
+Q80) this is question80? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+A) This is option A.
+B) This is option B.
+B
+Q81) this is question81? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+D) This is option D.
+A) This is option A.
+A
+Q82) this is question82? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+C) This is option C.
+D) This is option D.
+D
+Q83) this is question83? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+A) This is option A.
+B) This is option B.
+B
+Q84) this is question84? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+D) This is option D.
+A) This is option A.
+A
+Q85) this is question85? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+C) This is option C.
+D) This is option D.
+D
+Q86) this is question86? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+A) This is option A.
+B) This is option B.
+B
+Q87) this is question87? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+D) This is option D.
+A) This is option A.
+A
+Q88) this is question88? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+C) This is option C.
+D) This is option D.
+D
+Q89) this is question89? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+A) This is option A.
+B) This is option B.
+B
+Q90) this is question90? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+D) This is option D.
+A) This is option A.
+A
+Q91) this is question91? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+C) This is option C.
+D) This is option D.
+D
+Q92) this is question92? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+A) This is option A.
+B) This is option B.
+B
+Q93) this is question93? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+D) This is option D.
+A) This is option A.
+A
+Q94) this is question94? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+C) This is option C.
+D) This is option D.
+D
+Q95) this is question95? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+A) This is option A.
+B) This is option B.
+B
+Q96) this is question96? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+D) This is option D.
+A) This is option A.
+A
+Q97) this is question97? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+C) This is option C.
+D) This is option D.
+D
+Q98) this is question98? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+A) This is option A.
+B) This is option B.
+B
+Q99) this is question99? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+D) This is option D.
+A) This is option A.
+A
+Q100) this is question100? 
+A) This is option A.
+B) This is option B.
+C) This is option C.
+D) This is option D.
+Press f for fifty-fifty
+C) This is option C.
+D) This is option D.
+D
