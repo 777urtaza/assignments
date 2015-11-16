@@ -27,7 +27,8 @@ class iooutdiff{
 			}
 			catch(Exception ex)
 			{
-				System.out.print("word or line Not same"); return;
+				System.out.print("word or line Not same");
+				return;
 			}
 		}
 		System.out.print("Files are same");
