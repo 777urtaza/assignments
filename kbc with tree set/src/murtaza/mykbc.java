@@ -6,7 +6,7 @@ class qa{
 	String question;
 	String answer1, answer2,answer3,answer4;
 	String correctanswer;
-	String option;
+	String option;		//String added in class to store option
 }
 
 class mykbc{
@@ -44,7 +44,7 @@ class mykbc{
 					{
 						cqa.answer1=cqa.answer1.substring(1,cqa.answer1.length());
 						cqa.correctanswer=cqa.answer1;
-						cqa.option="A";
+						cqa.option="A"; 		//if this option is correct A is added with this option in option string 
 					}
 					
 					cqa.answer2=raf.readLine();
@@ -52,7 +52,7 @@ class mykbc{
 					{
 						cqa.answer2=cqa.answer2.substring(1,cqa.answer2.length());
 						cqa.correctanswer=cqa.answer2;
-						cqa.option="B";
+						cqa.option="B";		//if this option is correct B is added with the option in option string 
 					}
 					
 					cqa.answer3=raf.readLine();
@@ -60,7 +60,7 @@ class mykbc{
 					{
 						cqa.answer3=cqa.answer3.substring(1,cqa.answer3.length());
 						cqa.correctanswer=cqa.answer3;
-						cqa.option="C";
+						cqa.option="C";			//if this option is correct C is added with this option in option string 
 					}
 					
 					cqa.answer4=raf.readLine();
@@ -68,7 +68,7 @@ class mykbc{
 					{
 						cqa.answer4=cqa.answer4.substring(1,cqa.answer4.length());
 						cqa.correctanswer=cqa.answer4;
-						cqa.option="D";
+						cqa.option="D";			//if this option is correct D is added with this option in option string 
 					}
 					if(++track==currentques)
 					{
@@ -82,8 +82,8 @@ class mykbc{
 			System.out.println("Welcome to KBC");
 			Set myset=tm.entrySet();
 			Iterator itr=myset.iterator();
-			int x[]=new int[15];
-			for(int i=0; i<15; i++)
+			int x[]=new int[15];		//for winning prize
+			for(int i=0; i<15; i++) 
 			{
 				x[i]=100*i;
 			}
@@ -100,11 +100,11 @@ class mykbc{
 				System.out.println("D:"+temp.answer4);
 				//System.out.println("Correct answer is"+temp.correctanswer);
 				//System.out.println("aaaaaaaaaaaaaaaaaa");
-				m=input.next();
-				if(m.equals(temp.option))
+				m=input.next();			//take input from user for option
+				if(m.equals(temp.option))	//compare the input with option in the class
 				{
 					 System.out.println("correct answer, you won "+x[count]);
-					 ++count;
+					 ++count;				//just for prize
 				 }
 				 else{
 					 System.out.println("wrong!");
